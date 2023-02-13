@@ -1,2 +1,7 @@
 # Codeforces
 ### Codeforces Algorithm
+|#|Title|Solution|Difficulty|
+|-|-----|--------|----------|
+|1792A|[GamingForces](https://codeforces.com/problemset/problem/1792/A)|[PHP](https://github.com/pavel-mishinfz/codeforces/blob/main/algorithms/php/GamingForces/1792A.php)|800|
+|1791C|[Приписать и дописать](https://codeforces.com/problemset/problem/1791/C)|[PHP](https://github.com/pavel-mishinfz/codeforces/tree/main/algorithms/php/%D0%9F%D1%80%D0%B8%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D0%98%D0%94%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C)|800|
+|1791B|[Следовать направлениям](https://codeforces.com/problemset/problem/1791/B)|[PHP](https://github.com/pavel-mishinfz/codeforces/blob/main/algorithms/php/%D0%A1%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D0%9D%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC/1791B.php)|800|
